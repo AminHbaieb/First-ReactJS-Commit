@@ -1,0 +1,14 @@
+.title {
+    width: 20vw;
+    color: rgb(255, 0, 0);
+}
+.title1 {
+    width: 20vw;
+    color: rgb(255, 0, 0);
+    transform: translateX() =100px;
+    display: inline-flex;
+}
+.myimg {
+    width: 239px;
+    height: 200px;
+}
